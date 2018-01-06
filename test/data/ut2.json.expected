@@ -1,0 +1,48 @@
+{
+	"subtitles": [
+	{
+		"subtitle" : "What's new at school? Nothing.",
+		"edited_text" : "What's new at school Nothing",
+		"start" : "1500",
+		"end" : "3230",
+		"words" : [
+			{
+				"word" : "What's",
+				"recognised" : "1",
+				"start" : "1560",
+				"end" : "1810",
+				"duration" : "250"
+			},
+			{
+				"word" : "new",
+				"recognised" : "1",
+				"start" : "1820",
+				"end" : "1960",
+				"duration" : "140"
+			},
+			{
+				"word" : "at",
+				"recognised" : "1",
+				"start" : "1970",
+				"end" : "2070",
+				"duration" : "100"
+			},
+			{
+				"word" : "school",
+				"recognised" : "1",
+				"start" : "2080",
+				"end" : "2770",
+				"duration" : "690"
+			},
+			{
+				"word" : "Nothing",
+				"recognised" : "1",
+				"start" : "2780",
+				"end" : "3180",
+				"duration" : "400"
+			}
+		],
+		"phonemes" : [
+		]
+	}	]
+}
